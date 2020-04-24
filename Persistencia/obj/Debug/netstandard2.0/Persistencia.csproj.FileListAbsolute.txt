@@ -1,0 +1,12 @@
+D:\NetCore\Persistencia\bin\Debug\netstandard2.0\Persistencia.deps.json
+D:\NetCore\Persistencia\bin\Debug\netstandard2.0\Persistencia.dll
+D:\NetCore\Persistencia\bin\Debug\netstandard2.0\Persistencia.pdb
+D:\NetCore\Persistencia\bin\Debug\netstandard2.0\Dominio.dll
+D:\NetCore\Persistencia\bin\Debug\netstandard2.0\Dominio.pdb
+D:\NetCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.csprojAssemblyReference.cache
+D:\NetCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CoreCompileInputs.cache
+D:\NetCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfoInputs.cache
+D:\NetCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfo.cs
+D:\NetCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CopyComplete
+D:\NetCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.dll
+D:\NetCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.pdb
